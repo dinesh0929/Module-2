@@ -17,7 +17,7 @@ print(sorted1)
 ```
 
 ## Output
-<img width="1157" height="184" alt="image" src="https://github.com/user-attachments/assets/026c2fb7-54ef-48ac-bbbd-a203de979a61" />
+<img width="360" height="248" alt="image" src="https://github.com/user-attachments/assets/1d0f61f7-de4a-4822-823e-31535817e299" />
 
 ## Result
 Thus the output is verified.
